@@ -1,5 +1,3 @@
-# Linux
-
 
 Acesta este un program C care primește 2 argumente din linia de comandă: un director sursă și un director destinație.
 
